@@ -1,0 +1,15 @@
+{
+    "id": 2132419,
+    "descricao": "Commission",
+    "envolvido": "Artista",
+    "observacao": null,
+    "tipo": "DESP",
+    "data_transacao": "2024-09-26T03:00:00.000Z",
+    "data_pagamento": "2024-09-26T03:00:00.000Z",
+    "valor": "-100.00",
+    "status": true,
+    "conta_id": 2271204,
+    "usuario_id": 99999,
+    "transferencia_id": null,
+    "parcelamento_id": null
+}
